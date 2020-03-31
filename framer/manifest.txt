@@ -735,6 +735,7 @@ node_modules/@framer/asci.image-shuffle/code/ShuffleImage.tsx
 node_modules/@framer/asci.image-shuffle/_project.framerxproj
 node_modules/@framer/asci.image-shuffle/README.md
 design/images/oTQwnwmXL0yNbtmTy82xbaV6BdI.png
+design/images/mzEbpKJhgPpsv6df6LhoHQhM.png
 design/images/Bl7O1DStvJlfZcNBu4lHt5cBWEM.png
 design/images/ATxtuhoL0tqtw6yleYCQsfged7I.png
 design/assets/Splash@3x.png
